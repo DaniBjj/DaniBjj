@@ -2,18 +2,13 @@
 <h1 align="center">Hello! I'm Daniele, beginner in the field of Technology and work in the field of Human Resources. </h1>
 <div align="center">
 <a href="https://github.com/danibjj">
+ <a/> 
   
-<p>
-- 👋 Hi, I’m @DaniBjj
-- 👀 I’m interested in ...
+- 👀 I’m interested in alwens learnig, 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
- ✨ 
-   <p "right" >
-   
-  
-
+- 💞️ I’m so meuch love figth jiu-jitsu;
+- 📫 How to reach me in my Linkeding
+   <p "left" >
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danibjj&show_icons=false&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibjj&layout=compact&langs_count=7&theme=dark"/>
