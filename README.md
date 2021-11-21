@@ -3,10 +3,23 @@
 <div align="center">
 <a href="https://github.com/danibjj">
  <a/> 
-   <p "left" >
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danibjj&show_icons=false&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibjj&layout=compact&langs_count=7&theme=dark"/>
+
+- 🌱 I’m currently learning ...
+- 💞️ I’m so much love figth jiu-jitsu;
+- 📫 How to reach me in my Linkeding...
+   <p "left">
+  
+    <a href="https://www.linkedin.com/in/danielesouzamenezes/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" width="48px" height="48px">
+</a><br />
+<p align="left" > 
+  
+     
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=danibjj&show_icons=false&theme=dark&include_all_commits=true&count_private=false"/>
+    <br>
+ 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibjj&layout=compact&langs_count=7&theme=dark"/>
   
 </div>
 <div style="display: inline_block"><br>
@@ -16,15 +29,7 @@
   <img align="center" alt="danibjj-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ##
-  
-- 👀 I’m interested in alwens learnig, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m so meuch love figth jiu-jitsu;
-- 📫 How to reach me in my Linkeding
- 
  ##
- 
  
 <div> 
 
@@ -34,3 +39,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
