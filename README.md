@@ -11,7 +11,7 @@
    <p "left">
   
     <a href="https://www.linkedin.com/in/danielesouzamenezes/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" width="48px" height="48px">
+  <img align="right" src="https://i.pinimg.com/236x/3f/95/d5/3f95d5174753aea7e5962104e97b2717.jpg" width="98px" width="68px" height="98px">
 </a><br />
 <p align="left" > 
   
