@@ -5,9 +5,10 @@
  <a/> 
   
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m so much love figth jiu-jitsu;
-- 📫 How to reach me in my Linkeding...
+- 🌱 I'm currently learning about front-end;                                                                   
+- 💞️ I love practicing jiu-jitsu;
+- ⭐️ And learn new things;
+- 📫 And all my work will be posted on linkedin (in video);
    <p "left">
   
     <a href="https://www.linkedin.com/in/danielesouzamenezes/" target="_blank">
@@ -26,7 +27,6 @@
   <img align="center" alt="danibjj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="danibjj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="danibjj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="danibjj-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
  ##
