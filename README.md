@@ -3,11 +3,6 @@
 <div align="center">
 <a href="https://github.com/danibjj">
  <a/> 
-  
-- 👀 I’m interested in alwens learnig, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m so meuch love figth jiu-jitsu;
-- 📫 How to reach me in my Linkeding
    <p "left" >
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danibjj&show_icons=false&theme=dark&include_all_commits=true&count_private=false"/>
@@ -21,7 +16,15 @@
   <img align="center" alt="danibjj-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+  ##
+  
+- 👀 I’m interested in alwens learnig, 
+- 🌱 I’m currently learning ...
+- 💞️ I’m so meuch love figth jiu-jitsu;
+- 📫 How to reach me in my Linkeding
+ 
  ##
+ 
  
 <div> 
 
