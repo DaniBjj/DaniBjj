@@ -1,8 +1,26 @@
-## Hello! I'm Daniele, iniciante na area de tecnologia e trabalho na área de Recursos humanos 
+<h1 align="center">Hello! I'm Daniele, beginner in the field of Technology and work in the field of Human Resources. </h1>
 <div align="center">
 <a href="https://github.com/danibjj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danibjj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibjj&layout=compact&langs_count=7&theme=dracula"/>
+  
+<p>
+- 👋 Hi, I’m @DaniBjj
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me .
+ ✨ 
+   <p align="right" >
+   
+  <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+  <a href="https://github.com/danibjj" target="_blank">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a><br />
+<p align="left" >
+ 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danibjj&show_icons=false&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibjj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="danibjj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,8 +39,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
 
 
 
